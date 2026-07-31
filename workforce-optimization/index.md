@@ -2,25 +2,25 @@
 
 ## Executive Summary
 
-Developed a linear optimization model in Excel Solver to generate cost-efficient weekly workforce schedules by minimizing payroll hours while satisfying staffing requirements, employee availability, and labor-hour constraints. The model demonstrates how mathematical optimization can improve operational planning through data-driven scheduling decisions.
+Developed a linear optimization model in Microsoft Excel Solver to generate cost-efficient weekly workforce schedules by minimizing total payroll hours while satisfying staffing requirements, employee availability, and labor-hour constraints.
 
 ---
 
 ## Business Challenge
 
-Retail scheduling requires balancing labor costs with operational coverage while accounting for employee availability and scheduling constraints. Manual scheduling can result in unnecessary labor costs or insufficient staffing during business hours.
+Retail workforce scheduling requires balancing labor costs with staffing coverage while accounting for employee availability and operational constraints.
 
 ---
 
 ## Objective
 
-Optimize weekly employee schedules by minimizing total payroll hours while maintaining required staffing coverage and satisfying all scheduling constraints.
+Minimize total weekly payroll hours while maintaining required staffing coverage.
 
 ---
 
 ## Optimization Approach
 
-The model uses Excel Solver and linear programming to determine the optimal allocation of employee hours across a weekly schedule.
+The model uses Excel Solver and the Simplex LP algorithm to optimize workforce scheduling.
 
 ### Decision Variables
 
@@ -31,48 +31,54 @@ The model uses Excel Solver and linear programming to determine the optimal allo
 ### Constraints
 
 - Employee availability
-- Required staffing levels
-- Maximum weekly labor hours
-- Operational scheduling requirements
+- Staffing requirements
+- Maximum weekly hours
+- Binary scheduling decisions
+- Non-negative decision variables
 
 ---
 
-## Results
+## Business Outcome
+
+The optimization model successfully:
 
 - Generated an optimized weekly workforce schedule
-- Minimized total payroll hours
+- Minimized payroll hours
 - Maintained required staffing coverage
 - Satisfied all scheduling constraints
 
 ---
 
-## Screenshots
+# Optimization Results
 
-### Optimization Results
+![Optimization Results](<sch 1.png>)
 
-![Optimization Results](optimization-results.png)
+---
 
-### Solver Configuration
+# Solver Configuration
 
-![Solver Configuration](solver-configuration.png)
+![Solver Configuration](<sch 2.png>)
 
-### Optimized Schedule
+---
 
-![Optimized Schedule](optimized-schedule.png)
+# Optimized Workforce Schedule
 
-### Constraint Summary
+![Optimized Workforce Schedule](<sch 3.png>)
 
-![Constraint Summary](constraints.png)
+---
+
+# Constraint Summary
+
+![Constraint Summary](<sch 4.png>)
 
 ---
 
 ## Skills Demonstrated
 
 - Linear Programming
-- Workforce Planning
 - Operations Research
-- Labor Optimization
+- Workforce Planning
 - Resource Allocation
-- Excel Solver
 - Constraint Modeling
+- Microsoft Excel Solver
 - Operational Analytics
