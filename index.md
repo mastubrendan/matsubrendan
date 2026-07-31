@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="IMG_7611_bandana_removed_exact(1).png" alt="Brendan Matsumoto" width="220">
+<img src="./IMG_7611_bandana_removed_exact.png" width="220">
 </p>
 
 # Brendan Matsumoto
 
 <p align="center">
-<a href="Brendan%20Matsumoto%20Resume%20C2(6).pdf">📄 Resume</a>
+<a href="./Brendan%20Matsumoto%20Resume%20C2.pdf">📄 Resume</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/brendan-matsumoto-6a3018199/">LinkedIn</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
