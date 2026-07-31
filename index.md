@@ -1,10 +1,24 @@
+<p align="center">
+  <img src="profile-photo.png" alt="Brendan Matsumoto" width="220">
+</p>
+
 # Brendan Matsumoto
 
-## Supply Chain Analytics and Optimization Portfolio
+<p align="center">
+<strong>Supply Chain Analytics | Procurement | Operations Research</strong>
+</p>
 
-Graduate student in Digital Supply Chain Management with professional experience in inventory operations, ERP systems, warehouse order fulfillment, workforce planning, and operational analysis.
+<p align="center">
+<a href="Brendan-Matsumoto-Resume.pdf">📄 Resume</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/brendan-matsumoto-6a3018199/">LinkedIn</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="mailto:brendanmatsumoto99@gmail.com">Email</a>
+</p>
 
-My work focuses on using data and optimization models to improve decisions involving sourcing, inventory, production, labor allocation, and business operations.
+## Supply Chain Analyst | Procurement | Operations Research 
+
+Graduate student in Digital Supply Chain Management with professional experience in inventory management, ERP systems, and operational leadership. My work focuses on applying optimization and analytics to improve sourcing, production planning, inventory management, and workforce scheduling decisions.
 
 ---
 
@@ -74,8 +88,3 @@ California State Polytechnic University, Pomona
 December 2023
 
 ---
-
-## Contact
-
-**LinkedIn:** [Brendan Matsumoto](https://www.linkedin.com/in/brendan-matsumoto-6a3018199/)  
-**Email:** brendanmatsumoto99@gmail.com
