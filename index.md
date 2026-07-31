@@ -6,13 +6,19 @@ Graduate student in Digital Supply Chain Management with experience in inventory
 
 ## Projects
 
-### [Supply Chain Sourcing and Production Optimization](production-optimization/)
+### 📈 Supply Chain Sourcing & Production Optimization
 
-Developed a 30-day linear optimization model in Excel Solver to optimize production and external order quantities, maximize modeled profit, and fulfill demand under inventory and operational constraints.
+Developed a 30-day linear optimization model...
 
-### Workforce Scheduling Optimization
+[View Project](production-optimization/)
 
-Developed an Excel Solver model to minimize payroll hours while satisfying staffing requirements and employee availability.
+---
+
+### 📅 Workforce Scheduling Optimization
+
+Developed an Excel Solver optimization model that minimized payroll hours while satisfying staffing requirements and employee availability.
+
+[View Project](workforce-optimization/)
 
 
 
