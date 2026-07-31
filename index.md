@@ -14,9 +14,7 @@ Developed a 30-day linear optimization model in Excel Solver to optimize product
 
 Developed an Excel Solver model to minimize payroll hours while satisfying staffing requirements and employee availability.
 
-### SAP ERP Order Fulfillment and Warehouse Management
 
-Executed an end-to-end SAP ERP workflow involving sales orders, inventory verification, outbound delivery, transfer orders, warehouse picking, goods issue, and inventory reconciliation.
 
 ## Core Skills
 
