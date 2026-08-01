@@ -1,76 +1,86 @@
 <p align="center">
-<img src="./IMG_7611_bandana_removed_exact.png" width="220">
+  <img src="./IMG_7611_bandana_removed_exact.png"
+       alt="Brendan Matsumoto"
+       width="210">
 </p>
 
-# Brendan Matsumoto
+<h1 align="center">Brendan Matsumoto</h1>
 
 <p align="center">
-<a href="./Brendan%20Matsumoto%20Resume%20C2.pdf">📄 Resume</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/brendan-matsumoto-6a3018199/">LinkedIn</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="mailto:brendanmatsumoto99@gmail.com">Email</a>
+  <strong>Supply Chain Analytics | Procurement | Operations Optimization</strong>
 </p>
 
-
-## Supply Chain Analyst | Procurement | Operations Research 
-
-Graduate student in Digital Supply Chain Management with professional experience in inventory management, ERP systems, and operational leadership. My work focuses on applying optimization and analytics to improve sourcing, production planning, inventory management, and workforce scheduling decisions.
+<p align="center">
+  <a href="./Brendan%20Matsumoto%20Resume%20C2.pdf"><strong>Resume</strong></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/brendan-matsumoto-6a3018199/"><strong>LinkedIn</strong></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="mailto:brendanmatsumoto99@gmail.com"><strong>Email</strong></a>
+</p>
 
 ---
 
-## Featured Projects
+## Profile
+
+Graduate student in Digital Supply Chain Management with professional experience in inventory management, Oracle NetSuite ERP, warehouse order fulfillment, workforce planning, and operational leadership. I am particularly interested in applying analytical models to improve sourcing, inventory, production, labor allocation, and other resource-planning decisions.
+
+---
+
+## Selected Projects
 
 ### [Supply Chain Sourcing and Production Optimization](production-optimization/)
 
-Developed a 30-day linear optimization model in Microsoft Excel Solver to determine profit-maximizing production and external order quantities while satisfying demand, inventory, sourcing, reserve, and operational constraints.
+**Excel Solver • Linear Programming • Procurement Analysis • Production Planning**
 
-**Key outcomes:**
+Developed a 30-day optimization model that determined profit-maximizing production and external order quantities while accounting for forecasted demand, internal supply, procurement costs, inventory availability, reserve requirements, and storage constraints.
 
-- Optimized production and procurement quantities
-- Fulfilled 8.96 million liters of demand with zero shortages
-- Maximized modeled profit to approximately ₹24.30 million
-- Evaluated internal production, outside sourcing, and inventory utilization
+**Project results**
 
-[View Project](production-optimization/)
+- Optimized internal production and outside-union order quantities
+- Fulfilled **8.96 million liters** of modeled demand with **zero shortages**
+- Generated approximately **₹24.30 million in modeled profit**
+- Allocated approximately **1.69 million liters** to outside-union sourcing
+- Determined when recombined milk should be used based on ingredient availability and cost
+
+[View the production optimization case study →](production-optimization/)
 
 ---
 
 ### [Retail Workforce Scheduling Optimization](workforce-optimization/)
 
-Independently developed an Excel Solver optimization model to generate cost-efficient weekly workforce schedules while balancing employee availability, staffing requirements, and labor-hour constraints.
+**Excel Solver • Workforce Planning • Resource Allocation • Constraint Modeling**
 
-**Key outcomes:**
+Independently developed an optimization model to generate a weekly employee schedule while balancing staffing requirements, employee availability, daily-hour restrictions, and weekly labor limits.
 
-- Minimized modeled payroll hours
-- Maintained required staffing coverage
-- Satisfied employee availability and scheduling constraints
-- Demonstrated a data-driven approach to labor planning
+**Project results**
 
-[View Project](workforce-optimization/)
+- Generated a feasible weekly employee schedule
+- Minimized modeled payroll requirements to approximately **92 total hours**
+- Maintained required staffing coverage across all seven days
+- Incorporated employee availability and weekly minimum and maximum hours
+- Demonstrated a data-driven alternative to manual scheduling decisions
 
----
-
-## Professional Background
-
-- Inventory management and replenishment using Oracle NetSuite ERP
-- KPI analysis and operational planning using Storeforce
-- Warehouse order fulfillment and labor coordination
-- Workforce scheduling and team leadership
-- SAP ERP experience in Materials Management and Warehouse Management
-- Graduate coursework in optimization models, strategic sourcing, purchasing management, and logistics
+[View the workforce optimization case study →](workforce-optimization/)
 
 ---
 
-## Technical Skills
+## Professional Capabilities
 
-**Systems and Tools**
+| Area | Experience |
+|---|---|
+| Inventory and ERP | Oracle NetSuite ERP, inventory management, replenishment, inbound shipment tracking |
+| Optimization | Excel Solver, linear optimization, workforce scheduling, order-quantity optimization |
+| Operations | Warehouse order fulfillment, workflow coordination, labor allocation, operational planning |
+| Analysis | KPI analysis, demand fulfillment, constraint analysis, resource allocation |
+| Leadership | Team coaching, scheduling, training, performance management, safety compliance |
 
-Oracle NetSuite ERP • SAP ERP (MM, WM) • Microsoft Excel • Excel Solver • Storeforce
+---
 
-**Supply Chain and Analytics**
+## Tools and Methods
 
-Linear Optimization • Inventory Management • Replenishment • Production Planning • Sourcing Analysis • Workforce Planning • KPI Analysis • Order Fulfillment • Constraint Modeling
+**Systems:** Oracle NetSuite ERP • SAP ERP (MM, WM) • Storeforce • Endear  
+**Analytics:** Microsoft Excel • Excel Solver • Linear Programming • Constraint Modeling  
+**Supply Chain:** Inventory Management • Replenishment • Production Planning • Sourcing Analysis • Order Fulfillment • Workforce Planning
 
 ---
 
@@ -85,3 +95,11 @@ California State Polytechnic University, Pomona
 December 2023
 
 ---
+
+<p align="center">
+  <a href="./Brendan%20Matsumoto%20Resume%20C2.pdf">Download Resume</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/brendan-matsumoto-6a3018199/">LinkedIn</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="mailto:brendanmatsumoto99@gmail.com">Contact</a>
+</p>
