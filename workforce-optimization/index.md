@@ -3,6 +3,7 @@
 ## Executive Summary
 
 Developed a linear optimization model in Microsoft Excel Solver to generate cost-efficient weekly workforce schedules by minimizing total payroll hours while satisfying staffing requirements, employee availability, and labor-hour constraints.
+> **Confidentiality Notice:** This portfolio presents a demonstration version of the workforce scheduling model. The optimization methodology, constraints, and analytical approach are identical to the original model, while employee names, scheduling data, and operational details have been replaced with representative values to protect confidential company information.
 
 ---
 
