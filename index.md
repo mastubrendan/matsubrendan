@@ -1,105 +1,575 @@
-<p align="center">
-  <img src="./IMG_7611_bandana_removed_exact.png"
-       alt="Brendan Matsumoto"
-       width="210">
-</p>
-
-<h1 align="center">Brendan Matsumoto</h1>
-
-<p align="center">
-  <strong>Supply Chain Analytics | Procurement | Operations Optimization</strong>
-</p>
-
-<p align="center">
-  <a href="./Brendan%20Matsumoto%20Resume%20C2.pdf"><strong>Resume</strong></a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/brendan-matsumoto-6a3018199/"><strong>LinkedIn</strong></a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="mailto:brendanmatsumoto99@gmail.com"><strong>Email</strong></a>
-</p>
-
 ---
-
-## Profile
-
-Graduate student in Digital Supply Chain Management with professional experience in inventory management, Oracle NetSuite ERP, warehouse order fulfillment, workforce planning, and operational leadership. I am particularly interested in applying analytical models to improve sourcing, inventory, production, labor allocation, and other resource-planning decisions.
-
+layout: null
+title: Brendan Matsumoto | Supply Chain Analytics Portfolio
 ---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-## Selected Projects
+  <meta
+    name="description"
+    content="Brendan Matsumoto's supply chain analytics portfolio featuring Excel Solver optimization, workforce scheduling, inventory planning, and ERP operations projects."
+  >
 
-### [Supply Chain Sourcing and Production Optimization](production-optimization/)
+  <title>Brendan Matsumoto | Supply Chain Analytics Portfolio</title>
 
-**Excel Solver • Linear Programming • Procurement Analysis • Production Planning**
+  <link rel="stylesheet" href="assets/css/portfolio.css">
+</head>
 
-Developed a 30-day optimization model that determined profit-maximizing production and external order quantities while accounting for forecasted demand, internal supply, procurement costs, inventory availability, reserve requirements, and storage constraints.
+<body>
 
-**Project results**
+  <div class="portfolio-shell">
 
-- Optimized internal production and outside-union order quantities
-- Fulfilled **8.96 million liters** of modeled demand with **zero shortages**
-- Generated approximately **₹24.30 million in modeled profit**
-- Allocated approximately **1.69 million liters** to outside-union sourcing
-- Determined when recombined milk should be used based on ingredient availability and cost
+    <nav class="site-nav" aria-label="Primary navigation">
 
-[View the production optimization case study →](production-optimization/)
+      <a class="brand" href="./">
+        Brendan Matsumoto
+      </a>
 
----
+      <div class="nav-links">
+        <a href="#projects">Projects</a>
+        <a href="#experience">Experience</a>
+        <a href="#skills">Skills</a>
+        <a href="#contact">Contact</a>
+      </div>
 
-### [Retail Workforce Scheduling Optimization](workforce-optimization/)
+    </nav>
 
-**Excel Solver • Workforce Planning • Resource Allocation • Constraint Modeling**
 
-Independently developed an optimization model to generate a weekly employee schedule while balancing staffing requirements, employee availability, daily-hour restrictions, and weekly labor limits.
+    <main>
 
-**Project results**
+      <!-- HERO -->
 
-- Generated a feasible weekly employee schedule
-- Minimized modeled payroll requirements to approximately **92 total hours**
-- Maintained required staffing coverage across all seven days
-- Incorporated employee availability and weekly minimum and maximum hours
-- Demonstrated a data-driven alternative to manual scheduling decisions
+      <section class="hero">
 
-[View the workforce optimization case study →](workforce-optimization/)
+        <div>
 
----
+          <p class="eyebrow">
+            Supply Chain Analytics & Optimization
+          </p>
 
-## Professional Capabilities
+          <h1>
+            I build practical models for operational decisions.
+          </h1>
 
-| Area | Experience |
-|---|---|
-| Inventory and ERP | Oracle NetSuite ERP, inventory management, replenishment, inbound shipment tracking |
-| Optimization | Excel Solver, linear optimization, workforce scheduling, order-quantity optimization |
-| Operations | Warehouse order fulfillment, workflow coordination, labor allocation, operational planning |
-| Analysis | KPI analysis, demand fulfillment, constraint analysis, resource allocation |
-| Leadership | Team coaching, scheduling, training, performance management, safety compliance |
+          <p class="hero-copy">
+            Supply chain professional and graduate student focused on
+            optimization, inventory planning, workforce scheduling,
+            ERP operations, and data-driven decision support.
+            My projects turn business constraints into structured models
+            that make tradeoffs and operational choices easier to evaluate.
+          </p>
 
----
 
-## Tools and Methods
+          <div class="hero-actions">
 
-**Systems:** Oracle NetSuite ERP • SAP ERP (MM, WM) • Storeforce • Endear  
-**Analytics:** Microsoft Excel • Excel Solver • Linear Programming • Constraint Modeling  
-**Supply Chain:** Inventory Management • Replenishment • Production Planning • Sourcing Analysis • Order Fulfillment • Workforce Planning
+            <a class="button primary" href="#projects">
+              View Featured Projects
+            </a>
 
----
+            <a
+              class="button"
+              href="Brendan%20Matsumoto%20Resume%20C2.pdf"
+              target="_blank"
+              rel="noopener"
+            >
+              View Resume
+            </a>
 
-## Education
+            <a
+              class="button"
+              href="https://www.linkedin.com/in/brendan-matsumoto-6a3018199/"
+              target="_blank"
+              rel="noopener"
+            >
+              LinkedIn
+            </a>
 
-**Master of Science, Digital Supply Chain Management**  
-California State Polytechnic University, Pomona  
-Expected May 2028
+          </div>
 
-**Bachelor of Science, Business Administration**  
-California State Polytechnic University, Pomona  
-December 2023
 
----
+          <div class="stats-grid" aria-label="Portfolio highlights">
 
-<p align="center">
-  <a href="./Brendan%20Matsumoto%20Resume%20C2.pdf">Download Resume</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/brendan-matsumoto-6a3018199/">LinkedIn</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="mailto:brendanmatsumoto99@gmail.com">Contact</a>
-</p>
+            <div class="stat-card">
+              <span class="stat-value">8.96M L</span>
+              <span class="stat-label">
+                Demand modeled in production optimization
+              </span>
+            </div>
+
+            <div class="stat-card">
+              <span class="stat-value">0</span>
+              <span class="stat-label">
+                Modeled production shortages
+              </span>
+            </div>
+
+            <div class="stat-card">
+              <span class="stat-value">30 Days</span>
+              <span class="stat-label">
+                Production planning horizon
+              </span>
+            </div>
+
+            <div class="stat-card">
+              <span class="stat-value">7 Days</span>
+              <span class="stat-label">
+                Workforce scheduling horizon
+              </span>
+            </div>
+
+          </div>
+
+        </div>
+
+
+        <div class="headshot-wrap">
+
+          <img
+            class="headshot"
+            src="IMG_7611_bandana_removed_exact.png"
+            alt="Headshot of Brendan Matsumoto"
+          >
+
+        </div>
+
+      </section>
+
+
+      <!-- PROJECTS -->
+
+      <section class="section" id="projects">
+
+        <div class="section-heading">
+
+          <div>
+
+            <p class="eyebrow">
+              Featured Work
+            </p>
+
+            <h2>
+              Optimization Projects
+            </h2>
+
+          </div>
+
+          <p>
+            Each project is presented as a short case study showing the
+            business problem, model structure, constraints, decisions,
+            outputs, and operational value of the analysis.
+          </p>
+
+        </div>
+
+
+        <div class="project-grid">
+
+
+          <!-- PRODUCTION PROJECT -->
+
+          <article class="project-card">
+
+            <a
+              href="production-optimization/"
+              aria-label="Open production optimization case study"
+            >
+
+              <img
+                class="project-image"
+                src="production-optimization/opt%201.png"
+                alt="Preview of production optimization Excel model"
+              >
+
+            </a>
+
+
+            <div class="project-body">
+
+              <p class="eyebrow">
+                Excel Solver · Supply Planning
+              </p>
+
+              <h3>
+                Supply Chain Production Optimization Model
+              </h3>
+
+              <p>
+                A 30-day supply planning model balancing internal raw milk,
+                outside-union sourcing, recombined milk, reserves,
+                inventory availability, storage decisions, and cost
+                while fulfilling daily demand.
+              </p>
+
+
+              <div class="tag-row">
+
+                <span class="tag">
+                  Optimization
+                </span>
+
+                <span class="tag">
+                  Excel Solver
+                </span>
+
+                <span class="tag">
+                  Inventory
+                </span>
+
+                <span class="tag">
+                  Sourcing
+                </span>
+
+              </div>
+
+
+              <div class="project-actions">
+
+                <a
+                  class="button primary"
+                  href="production-optimization/"
+                >
+                  View Case Study
+                </a>
+
+              </div>
+
+            </div>
+
+          </article>
+
+
+
+          <!-- WORKFORCE PROJECT -->
+
+          <article class="project-card">
+
+            <a
+              href="workforce-optimization/"
+              aria-label="Open workforce scheduling case study"
+            >
+
+              <img
+                class="project-image"
+                src="workforce-optimization/sch%201.png"
+                alt="Preview of workforce scheduling Excel model"
+              >
+
+            </a>
+
+
+            <div class="project-body">
+
+              <p class="eyebrow">
+                Excel Solver · Workforce Planning
+              </p>
+
+              <h3>
+                Workforce Scheduling Optimization Model
+              </h3>
+
+              <p>
+                A weekly scheduling decision-support model that converts
+                staffing requirements, employee availability, daily
+                hour limits, and weekly hour constraints into a
+                structured feasible schedule.
+              </p>
+
+
+              <div class="tag-row">
+
+                <span class="tag">
+                  Workforce Planning
+                </span>
+
+                <span class="tag">
+                  Excel Solver
+                </span>
+
+                <span class="tag">
+                  Scheduling
+                </span>
+
+                <span class="tag">
+                  Operations
+                </span>
+
+              </div>
+
+
+              <div class="project-actions">
+
+                <a
+                  class="button primary"
+                  href="workforce-optimization/"
+                >
+                  View Case Study
+                </a>
+
+              </div>
+
+            </div>
+
+          </article>
+
+
+        </div>
+
+      </section>
+
+
+
+      <!-- EXPERIENCE -->
+
+      <section class="section" id="experience">
+
+        <div class="section-heading">
+
+          <div>
+
+            <p class="eyebrow">
+              Experience
+            </p>
+
+            <h2>
+              Operations Background
+            </h2>
+
+          </div>
+
+
+          <p>
+            My analytical projects are supported by hands-on experience
+            with retail operations, warehouse fulfillment, inventory,
+            workforce management, and performance analysis.
+          </p>
+
+        </div>
+
+
+        <div class="panel timeline">
+
+
+          <div class="timeline-item">
+
+            <div class="timeline-meta">
+              Nov 2025 – Present
+            </div>
+
+            <div class="timeline-copy">
+
+              <h3>
+                Sales Supervisor · Purple
+              </h3>
+
+              <p>
+                Workforce scheduling analysis, KPI target setting,
+                inventory and inbound shipment tracking, team coaching,
+                and operational execution using Storeforce and
+                Oracle NetSuite ERP.
+              </p>
+
+            </div>
+
+          </div>
+
+
+
+          <div class="timeline-item">
+
+            <div class="timeline-meta">
+              Sep 2024 – Oct 2025
+            </div>
+
+            <div class="timeline-copy">
+
+              <h3>
+                Warehouse Lead · Owens & Minor
+              </h3>
+
+              <p>
+                Led warehouse order fulfillment workflows, labor
+                assignments, inventory handling, associate training,
+                and safety-focused warehouse operations.
+              </p>
+
+            </div>
+
+          </div>
+
+
+
+          <div class="timeline-item">
+
+            <div class="timeline-meta">
+              Expected May 2028
+            </div>
+
+            <div class="timeline-copy">
+
+              <h3>
+                M.S. Digital Supply Chain Management · Cal Poly Pomona
+              </h3>
+
+              <p>
+                Graduate coursework includes optimization models,
+                strategic sourcing, global logistics and transportation,
+                and negotiation in supply chain.
+              </p>
+
+            </div>
+
+          </div>
+
+
+        </div>
+
+      </section>
+
+
+
+      <!-- SKILLS -->
+
+      <section class="section" id="skills">
+
+        <div class="section-heading">
+
+          <div>
+
+            <p class="eyebrow">
+              Capabilities
+            </p>
+
+            <h2>
+              Tools & Focus Areas
+            </h2>
+
+          </div>
+
+        </div>
+
+
+        <div class="skill-cloud">
+
+          <span class="skill">
+            Microsoft Excel
+          </span>
+
+          <span class="skill">
+            Excel Solver
+          </span>
+
+          <span class="skill">
+            Optimization Modeling
+          </span>
+
+          <span class="skill">
+            Supply Chain Operations
+          </span>
+
+          <span class="skill">
+            Inventory Management
+          </span>
+
+          <span class="skill">
+            Replenishment
+          </span>
+
+          <span class="skill">
+            Shipment Tracking
+          </span>
+
+          <span class="skill">
+            KPI Analysis
+          </span>
+
+          <span class="skill">
+            SAP ERP · WM / MM
+          </span>
+
+          <span class="skill">
+            Oracle NetSuite
+          </span>
+
+          <span class="skill">
+            Storeforce
+          </span>
+
+          <span class="skill">
+            Endear
+          </span>
+
+        </div>
+
+      </section>
+
+
+
+      <!-- CONTACT -->
+
+      <section class="section" id="contact">
+
+        <div class="contact-card">
+
+          <div>
+
+            <p class="eyebrow">
+              Contact
+            </p>
+
+            <h2>
+              Interested in supply chain, operations, or analytics?
+            </h2>
+
+            <p>
+              I am interested in opportunities where I can combine
+              operations experience with analytical modeling,
+              optimization, inventory planning, and ERP-based
+              decision support.
+            </p>
+
+          </div>
+
+
+          <div class="hero-actions">
+
+            <a
+              class="button primary"
+              href="mailto:brendanmatsumoto99@gmail.com"
+            >
+              Email Me
+            </a>
+
+            <a
+              class="button"
+              href="Brendan%20Matsumoto%20Resume%20C2.pdf"
+              target="_blank"
+              rel="noopener"
+            >
+              Resume
+            </a>
+
+          </div>
+
+        </div>
+
+      </section>
+
+
+    </main>
+
+
+
+    <footer class="footer">
+
+      Brendan Matsumoto · Supply Chain Analytics Portfolio
+
+    </footer>
+
+
+  </div>
+
+</body>
+</html>
