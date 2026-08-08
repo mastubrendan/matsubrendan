@@ -83,7 +83,7 @@ title: Brendan Matsumoto | Supply Chain Analytics Portfolio
             </p>
 
             <h1>
-              I build practical models for operational decisions.
+              Practical models for operational decisions.
             </h1>
 
             <p class="hero-copy">
