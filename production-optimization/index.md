@@ -2,7 +2,6 @@
 layout: null
 title: Production Optimization | Brendan Matsumoto
 ---
-<!doctype html>
 <html lang="en">
 
 <head>
