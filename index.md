@@ -88,42 +88,6 @@ title: Brendan Matsumoto | Supply Chain Analytics Portfolio
 
           </div>
 
-
-          <div class="stats-grid" aria-label="Portfolio highlights">
-
-            <div class="stat-card">
-              <span class="stat-value">8.96M L</span>
-              <span class="stat-label">
-                Demand modeled in production optimization
-              </span>
-            </div>
-
-            <div class="stat-card">
-              <span class="stat-value">0</span>
-              <span class="stat-label">
-                Modeled production shortages
-              </span>
-            </div>
-
-            <div class="stat-card">
-              <span class="stat-value">30 Days</span>
-              <span class="stat-label">
-                Production planning horizon
-              </span>
-            </div>
-
-            <div class="stat-card">
-              <span class="stat-value">7 Days</span>
-              <span class="stat-label">
-                Workforce scheduling horizon
-              </span>
-            </div>
-
-          </div>
-
-        </div>
-
-
         <div class="headshot-wrap">
 
           <img
