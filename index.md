@@ -189,7 +189,7 @@ title: Brendan Matsumoto | Supply Chain Analytics Portfolio
               >
 
                 <img
-                  class="project-image"
+                  class="project-image production-preview"
                   src="production-optimization/opt%201.png"
                   alt="Preview of production optimization Excel model"
                 >
