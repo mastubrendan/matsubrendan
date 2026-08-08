@@ -2,7 +2,7 @@
 layout: null
 title: Brendan Matsumoto | Supply Chain Analytics Portfolio
 ---
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
