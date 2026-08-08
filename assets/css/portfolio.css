@@ -479,6 +479,9 @@ h3 {
   background: var(--surface-2);
 }
 
+.production-preview {
+  object-position: bottom left;
+}
 
 .project-body {
   padding: 26px;
