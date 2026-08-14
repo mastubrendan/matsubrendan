@@ -705,6 +705,7 @@ title: Supplier Selection & Dual-Sourcing Strategy | Brendan Matsumoto
             >
 
               <img
+                class="scorecard-image"
                 src="sup%201.png"
                 alt="Weighted supplier scorecard criteria"
               >
