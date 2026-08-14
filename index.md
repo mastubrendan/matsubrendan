@@ -324,7 +324,78 @@ title: Brendan Matsumoto | Supply Chain Analytics Portfolio
               </div>
 
             </article>
+            
+            <!-- SUPPLIER SELECTION -->
 
+            <article class="project-card">
+
+              <a
+                href="supplier-selection/"
+                aria-label="Open supplier selection case study"
+              >
+
+                <img
+                  class="project-image"
+                  src="supplier-selection/sup%201.png"
+                  alt="Preview of supplier selection scorecard"
+                >
+
+              </a>
+
+
+              <div class="project-body">
+
+                <p class="eyebrow">
+                  Purchasing · Strategic Sourcing
+                </p>
+
+                <h3>
+                  Supplier Selection & Dual-Sourcing Strategy
+                </h3>
+
+                <p>
+                  An individual supplier-selection analysis evaluating
+                  quality, total cost, lead time, capacity, risk, and
+                  logistics before recommending a 60/40 dual-sourcing
+                  strategy.
+                </p>
+
+
+                <div class="tag-row">
+
+                  <span class="tag">
+                    Purchasing
+                  </span>
+
+                  <span class="tag">
+                    Supplier Evaluation
+                  </span>
+
+                  <span class="tag">
+                    Sourcing
+                  </span>
+
+                  <span class="tag">
+                    Risk Analysis
+                  </span>
+
+                </div>
+
+
+                <div class="project-actions">
+
+                  <a
+                    class="button primary"
+                    href="supplier-selection/"
+                  >
+                    View Case Study
+                  </a>
+
+                </div>
+
+              </div>
+
+            </article>
 
           </div>
 
