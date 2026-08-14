@@ -335,7 +335,7 @@ title: Brendan Matsumoto | Supply Chain Analytics Portfolio
               >
 
                 <img
-                  class="project-image"
+                  class="project-image scorecard-image"
                   src="supplier-selection/sup%201.png"
                   alt="Preview of supplier selection scorecard"
                 >
