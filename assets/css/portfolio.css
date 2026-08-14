@@ -429,9 +429,9 @@ h3 {
 
   grid-template-columns:
     repeat(
-      2,
-      minmax(0, 1fr)
-    );
+    auto-fit,
+    minmax(320px, 1fr)
+  );
 
   gap: 24px;
 }
